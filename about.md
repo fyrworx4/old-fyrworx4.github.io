@@ -7,12 +7,8 @@ comments: false
 ---
 hi there. i'm taylor. ✌✨
 
-currently attending Cal Poly Pomona and competing in numerous cyber competitions.
+currently attending Cal Poly Pomona and competing in various cyber competitions.
 
-expanding my involvement in clubs and organizations on campus to leave a positive impact behind me.
-
-intrigued by new technology, secret menu items, and free swag from conventions and job fairs.
-
-aspiring to work hard for things that are worth it, to learn from mistakes, and to be surrounded by individuals who inspire me.
+i'm also expanding my involvement in clubs and organizations on campus to leave a positive impact behind me; aspiring to work hard for things that are worth it, to learn from mistakes, and to be surrounded by individuals who inspire me.
 
 either working out or dabbling with music production whenever I’m not studying. listen to some of my <a href="https://soundcloud.com/fyrworx" target="_blank" rel="noopener">songs</a>!
