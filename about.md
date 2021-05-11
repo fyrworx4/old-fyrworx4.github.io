@@ -1,5 +1,5 @@
 ---
-title: about me
+title: About me
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm an infosec student from Southern California.
