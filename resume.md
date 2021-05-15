@@ -12,6 +12,7 @@ Education
 August 2019 - May 2023
 :   **BBA, Computer Information Systems** - California State Polytechnic University, Pomona
 
+<hr>
 
 Experience
 ----------
@@ -44,17 +45,25 @@ May 2020 - August 2020
     created a proof-of- concept for Cortex SOAR, and implemented Snort
     IDS into the company network. 
 
+<hr>
 
 Organizations
 --------------------
 
-Students With an Interest in the Future of Technolgy
+Students With an Interest in the Future of Technolgy (SWIFT)
 :   As a general member my first year, Vice President of Operations my
-    second year
+    second year, and now President for my third year, I've gained
+    not only technical skills but also soft skills by:
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second items
+    * collaborating with team members to create content for members,
+    * presenting about various infosec-related topics,
+    * leaded small workteams within SWIFT to provide hands-on workshops
+
+    My involvement in SWIFT has made me realize that I have the highest
+    potential to learn and grow when I'm surrounded by like-minded others.
+    As the next President, I plan to take the concepts introduced this year
+    and fully implement them next year, as well as expand that learning
+    potential to the rest of the e-board and to the general members.
 
 Management Information Systems Student Association
 :   List open source contributions here, perhaps placing emphasis on
