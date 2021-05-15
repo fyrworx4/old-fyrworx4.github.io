@@ -19,41 +19,44 @@ Experience
 April 2021 - Present
 :   **Southern California Edison** - Cybersecurity Tools Architecture Intern
 
-    I worked with implementing and fine-tuning various cybersecurity tools, including
+    I worked with implementing and fine-tuning various cybersecurity tools,
+    including:
     * Tanium
     * Cylance
     * Splunk
     * Armis
     * Corelight / Zeek
 
-    and more. I also had the opportunity to create phishing simulations and 
-    perform a risk assessment on various internal webservers. Being in the
-    Cybersecurity Tools Architecture department enabled me to play around
-    with many expensive tools and get a feel for a company environment with
-    a more mature cybersecurity program.
+    and more.
+    
+    I also had the opportunity to create phishing simulations and 
+    perform a risk assessment on various internal webservers. Being
+    in the Cybersecurity Tools Architecture department enabled me to
+    play around with many expensive tools and get a feel for a company
+    environment with a more mature cybersecurity program.
 
 May 2020 - August 2020
 :   **Talend** - Information Security Intern
 
-    As an Information Security Intern, I modified company's Splunk architecture
-    to follow best guidelines for third-party SOC integrations, as well as
-    researched Google Drive and Sharepoint vulnerabilities, created a proof-of-
-    concept for Cortex SOAR, and implemented Snort IDS into the company
-    network.
+    As an Information Security Intern, I modified company's Splunk
+    architecture to follow best guidelines for third-party SOC integrations,
+    as well as researched Google Drive and Sharepoint vulnerabilities,
+    created a proof-of- concept for Cortex SOAR, and implemented Snort
+    IDS into the company network. 
 
 
-Technical Projects
+Organizations
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Students With an Interest in the Future of Technolgy
+:   As a general member my first year, Vice President of Operations my
+    second year
 
     * These items can also contain lists, but you need to mind the
       indentation levels in the markdown source.
     * Second items
 
-Open Source
+Management Information Systems Student Association
 :   List open source contributions here, perhaps placing emphasis on
     the project names, for example the **Linux Kernel**, where you
     implemented multithreading over a long weekend, or **node.js**
