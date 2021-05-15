@@ -25,14 +25,21 @@ April 2021 - Present
     * Splunk
     * Armis
     * Corelight / Zeek
-    and more.
 
-    Also had the opportunity to create phishing emails and perform a risk assessment on various internal webservers.
+    and more. I also had the opportunity to create phishing simulations and 
+    perform a risk assessment on various internal webservers. Being in the
+    Cybersecurity Tools Architecture department enabled me to play around
+    with many expensive tools and get a feel for a company environment with
+    a more mature cybersecurity program.
 
 May 2020 - August 2020
 :   **Talend** - Information Security Intern
 
-    At Talend, I modified company's Splunk architecture to follow best guidelines for third-party SOC integrations.
+    As an Information Security Intern, I modified company's Splunk architecture
+    to follow best guidelines for third-party SOC integrations, as well as
+    researched Google Drive and Sharepoint vulnerabilities, created a proof-of-
+    concept for Cortex SOAR, and implemented Snort IDS into the company
+    network.
 
 
 Technical Projects
