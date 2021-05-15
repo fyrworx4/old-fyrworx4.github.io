@@ -76,6 +76,7 @@ Western Regional Collegiate Cyber Defense Competition (WRCCDC)
 
 Extra Section, Call it Whatever You Want
 ----------------------------------------
+<hr>
 
 * Human Languages:
 
