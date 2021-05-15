@@ -22,16 +22,24 @@ Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
 links:
 
+Worked with implementing and fine-tuning various cybersecurity tools, including
 
+* Tanium
 
-* First item
+* Cylance
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Splunk
 
-**That Other Job You Had**
+* Armis
 
-Also with a short description.
+* Corelight
+
+and more. 
+
+**Talend** - Information Security Intern
+
+Modified company's Splunk architecture to follow best guidelines for third-party SOC integrations
+
 
 Technical Experience
 --------------------
