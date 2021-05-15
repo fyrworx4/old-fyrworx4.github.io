@@ -13,7 +13,6 @@ August 2019 - May 2023
 :   **BBA, Computer Information Systems** - California State Polytechnic University, Pomona
 
 
-
 Experience
 ----------
 <hr>
@@ -74,16 +73,8 @@ Western Regional Collegiate Cyber Defense Competition (WRCCDC)
     our network.
 
 
-Extra Section, Call it Whatever You Want
+Self-Projects
 ----------------------------------------
 <hr>
 
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* This website.
