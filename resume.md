@@ -6,8 +6,8 @@ excerpt: my resume
 comments: false
 ---
 
-test test test 
-
+# Education
 <hr>
+## California State Polytechnic University, Pomona
+**test**
 
-test test
