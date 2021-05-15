@@ -56,8 +56,8 @@ Students With an Interest in the Future of Technolgy (SWIFT)
     not only technical skills but also soft skills by:
 
     * collaborating with team members to create content for members,
-    * presenting about various infosec-related topics,
-    * leaded small workteams within SWIFT to provide hands-on workshops
+    * presenting about various infosec-related topics, and
+    * leaded small workteams within SWIFT to provide hands-on workshops.
 
     My involvement in SWIFT has made me realize that I have the highest
     potential to learn and grow when I'm surrounded by like-minded others.
@@ -65,12 +65,16 @@ Students With an Interest in the Future of Technolgy (SWIFT)
     and fully implement them next year, as well as expand that learning
     potential to the rest of the e-board and to the general members.
 
-Management Information Systems Student Association
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+Management Information Systems Student Association (MISSA)
+:   MISSA is a club that focuses on data analytics, as well as soft-skills
+    within the CIS field. Currently holding a board position for SWIFT,
+    I want to stay involved with other clubs on campus to support their
+    mission and contribute back to the community. Some of my activities
+    in MISSA include:
+
+    * volunteering as a moderator for MISSA's tech mixers, and
+    * competed in their Information Technology Competition (ITC).
+
 
 Programming Languages
 :   **first-lang:** Here, we have an itemization, where we only want
