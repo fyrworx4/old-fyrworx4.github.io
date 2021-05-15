@@ -8,6 +8,6 @@ comments: false
 
 # Education
 <hr>
-## California State Polytechnic University, Pomona
+### California State Polytechnic University, Pomona
 **test**
 
