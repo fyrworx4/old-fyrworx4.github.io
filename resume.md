@@ -19,26 +19,23 @@ Experience
 April 2021 - Present
 :   **Southern California Edison** - Cybersecurity Tools Architecture Intern
 
-    Worked with implementing and fine-tuning various cybersecurity tools, including
-
+    I worked with implementing and fine-tuning various cybersecurity tools, including
     * Tanium
-    
-    * Cylance  
-
+    * Cylance
     * Splunk
-
     * Armis
+    * Corelight / Zeek
+    and more.
 
-    * Corelight
+    Also had the opportunity to create phishing emails and perform a risk assessment on various internal webservers.
 
-    and more. 
+May 2020 - August 2020
+:   **Talend** - Information Security Intern
 
-**Talend** - Information Security Intern
-
-Modified company's Splunk architecture to follow best guidelines for third-party SOC integrations
+    At Talend, I modified company's Splunk architecture to follow best guidelines for third-party SOC integrations.
 
 
-Technical Experience
+Technical Projects
 --------------------
 
 My Cool Side Project
