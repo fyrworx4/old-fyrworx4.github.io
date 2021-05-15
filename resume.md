@@ -9,27 +9,20 @@ comments: false
 Education
 ---------
 
-:   California State Polytechnic University, Pomona **PhD, Computer Science**
-2010-2014 (expected)
+2019 - 2023
+:   **BBA, Computer Information Systems** - California State Polytechnic University, Pomona
 
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Southern California Edison** - Cybersecurity Tools Architecture Intern
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
 links:
+
+
 
 * First item
 
