@@ -9,32 +9,29 @@ comments: false
 Education
 ---------
 
-2019 - 2023
+August 2019 - May 2023
 :   **BBA, Computer Information Systems** - California State Polytechnic University, Pomona
 
 
 Experience
 ----------
 
-**Southern California Edison** - Cybersecurity Tools Architecture Intern
+April 2021 - Present
+:   **Southern California Edison** - Cybersecurity Tools Architecture Intern
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+    Worked with implementing and fine-tuning various cybersecurity tools, including
 
-Worked with implementing and fine-tuning various cybersecurity tools, including
+    * Tanium
+    
+    * Cylance  
 
-* Tanium
+    * Splunk
 
-* Cylance
+    * Armis
 
-* Splunk
+    * Corelight
 
-* Armis
-
-* Corelight
-
-and more. 
+    and more. 
 
 **Talend** - Information Security Intern
 
@@ -50,7 +47,7 @@ My Cool Side Project
 
     * These items can also contain lists, but you need to mind the
       indentation levels in the markdown source.
-    * Second item.
+    * Second items
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
