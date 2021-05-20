@@ -34,7 +34,7 @@ I've also helped out with moderating various events towards the end of April, in
 
 With our combined efforts, we were able to secure 4 panelists - two alumni and two current students.
 
-The event consisted of prepared questions that I was planning to ask each of the panelists, ranging from basic introductions to new insights and lessons learned from their experiences. Overall the event was a success - we totaled in at 40 people in the videoconferencing room at once! I consider this event to be my biggest accomplishment and stepping stone in my event-planning confidence. Definitely a step-up from our first few events. (please visit our [Instagram](https://www.calpolyswift.org) to see this event as well as others hosted by the CBA Peer Mentors!)
+The event consisted of prepared questions that I was planning to ask each of the panelists, ranging from basic introductions to new insights and lessons learned from their experiences. Overall the event was a success - we totaled in at 40 people in the videoconferencing room at once! I consider this event to be my biggest accomplishment and stepping stone in my event-planning confidence. Definitely a step-up from our first few events. (please visit our [Instagram](https://www.instagram.com/cbapeermentors/) to see this event as well as others hosted by the CBA Peer Mentors!)
 
 ## Takeaways
 
