@@ -6,15 +6,11 @@ tags: [professional development]
 ---
 ## The CBA Peer Mentor Program
 
-<hr>
-
 The **CBA Peer Mentor** program was started in Spring 2021 to enable freshmen in the College of Business Administration to connect and bond with each other. Being a CBA Peer Mentor was a paid position, and seeing how I enjoyed sharing my stories and motivating others, I felt like this position was right up my alley.
 
 I applied and got the job, but this was a lot more than I bargained for.
 
 ## The Struggles
-
-<hr>
 
 Similar to starting a new club, our team's main focus was outreach and getting a presence within our community. This was, in my opinion, the toughest part for me as a CBA Peer Mentor - I just couldn't do outreach and event planning.
 
