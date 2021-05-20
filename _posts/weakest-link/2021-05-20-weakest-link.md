@@ -55,3 +55,5 @@ But did I learn a lot? Yes.
 This has been one of the greatest learning experiences of my college career *because* I focused on my weakest skills. I'm only as strong as my weakest link.
 
 It's going to feel weird to be outside your comfort zone. I understand. But it's something that I've learned to embrace, and as a result, grow immensely from it.
+
+Totally worth it.
