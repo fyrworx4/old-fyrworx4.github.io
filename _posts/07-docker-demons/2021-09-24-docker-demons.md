@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 	"Docker Demon"
-date: 2021-10-10
+date: 2021-09-24
 tags: [blog, docker]
 ---
 It all started with creating a networking workshop for the school's cybersecurity organization that I'm currently leading as president. My team and I wanted to stray away from the conventional method of teaching -- lectures, presentations, bullet points on slides. One of the main goals of this year is to provide very practical and tactical knowledge that members can take away after attending our meetings and workshops, and we wanted to do something pretty insane. And our mind turned into some sort of networking scavenger hunt.
