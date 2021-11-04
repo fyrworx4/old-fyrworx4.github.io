@@ -4,8 +4,6 @@ title: 	"Linux Privilege Escalation"
 date: 2021-07-26
 tags: [cybersecurity, penetration testing]
 ---
-## Linux Privilege Escalation
-
 TLDR: I didn't know Linux can be so overpowered when misconfigured.
 
 Recently, I had the opportunity to experiment with privilege escalation techniques on Linux using [TryHackMe](https://tryhackme.com). For those that do not know, TryHackMe is an online platform designed to build small labs to hone in on specific skills in security. Although I have owned a few boxes on HackTheBox, the techniques after getting initial access into a machine still remained a mystery to me.
