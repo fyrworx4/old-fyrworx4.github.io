@@ -10,11 +10,11 @@ Recently, I had the opportunity to experiment with privilege escalation techniqu
 
 Until the Linux PrivEsc course.
 
-This course is designed to walk you through a variety of Linux privilege escalation techniques, which one of them had me absolutely floored and probably made me consider being a Linux main for my CCDC team.
+This course is designed to walk you through a variety of Linux privilege escalation techniques, which one of them had me absolutely floored. It's so simple.
 
 Here it is... shell escape sequences.
 
-#### shell escape sequences
+## Shell Escape Sequences
 
 I had no idea that these types of methods even existed. Who would have thought that the simple `find` command could be used to break out of a non-sudo user?
 
@@ -32,7 +32,7 @@ find . -exec /bin/sh \; -quit
 
 But there's more. There's this whole list of legitimate commands in Linux that can be used to do crazy things. It's [here](https://gtfobins.github.io).
 
-#### overall experience
+## Overall Experience
 
 This made me even more hyped about penetration testing, which I had never considered as a career but was always curious about.
 
