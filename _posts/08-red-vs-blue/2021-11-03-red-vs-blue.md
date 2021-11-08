@@ -6,11 +6,11 @@ tags: [blog, cybersecurity]
 ---
 Red vs. Blue is an adversarial simulation competition to provide students with a unique, hands-on experience of defending Linux and Windows machines from an active threat actor. It's modeled after the CCDC competition to allow students to get the feel and rigor of a cyber competition, integrated with business objectives.
 
-And it's available to anyone who's interested in cybersecurity.
+And it's free for everyone. No experience required.
 
 This has been one of the most ambitious projects that our student organization, SWIFT, has ever taken on. We had around 40 members participate in our Red vs. Blue event, we brought in alumni from way before our time to help out with the red team, we've had both our CCDC and CPTC teams to assist with this project.
 
-This was a large-scale project that involved an immense amount of collaboration since summer. Lots of concentration, troubleshooting, and all-nighters to get to this level of quality of a workshop - for students, by students. We're breaking new grounds at SWIFT.
+This was a large-scale project that involved an immense amount of collaboration since summer. Lots of concentration, troubleshooting, and all-nighters to get to this level of quality of a workshop - for students, by students. We're breaking new grounds.
 
 And here's how we did it.
 
@@ -58,3 +58,7 @@ We settled on Discord to manage everything, both the internal operations of Red 
 Red vs. Blue was a very large project that took many hours to accomplish. But many of those hours were from the last two weeks before the event. I wished that we started earlier, because towards the competition, I had to start pinging everyone on Discord to update the team on the statuses on the boxes.
 
 Personally, it gave me some insight on how to manage and delegate tasks. Working on Red vs. Blue has taught me a lot about patience and how to make sure that everyone's on the same page.
+
+Also, we need to be more clear on what the objectives are. We tend to overestimate the skill level of our members, so we need to remind ourselves that simple tasks such as disabling SMBv1 is not as clear and cut as we might think.
+
+But this is a unique opportunity that nobody else receives outside of CCDC/CPTC. A great start to Red vs. Blue, but we can do better.
