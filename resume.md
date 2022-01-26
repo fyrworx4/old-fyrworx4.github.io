@@ -2,7 +2,7 @@
 title: resume
 permalink: /resume/
 layout: page
-excerpt: my resume
+excerpt: My Resume
 comments: false
 ---
 Education
