@@ -2,12 +2,17 @@
 title: about me
 permalink: /about/
 layout: page
-excerpt: Hello, I'm an infosec student from Southern California.
+excerpt: An info-sec student and aspiring hacker
 comments: false
 ---
 Hello there ✌✨
 
-I'm currently attending Cal Poly Pomona and competing in various cyber competitions.
+I am currently representing my university at cybersecurity competitions as the captain of our CCDC team and an incoming team member for our CPTC team.
+
+I'm also serving as the President of SWIFT (Students With an Interest in the Future of Technology), where I share my passions about cybersecurity with others.
+
+
+
 
 Also expanding my involvement in clubs and organizations on campus to leave a legacy; aspiring to work hard for things that are worth it, to learn from mistakes, and to be surrounded by individuals who inspire me.
 
