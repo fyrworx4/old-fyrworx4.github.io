@@ -13,32 +13,34 @@ August 2019 - May 2023
 :   **BBA, Computer Information Systems** - California State Polytechnic University, Pomona
 
 
+
 Experience
 ----------
 <hr>
 
+June 2022 - August 2022
+:   **Crowdstrike** - Professional Services, Red Team Intern
+
+
 April 2021 - Present
 :   **Southern California Edison** - Cybersecurity Tools Architecture Intern
 
-    I worked with implementing and fine-tuning various cybersecurity tools,
-    including:
+    Utilized the following tools:
     * Tanium
     * Cylance
     * Splunk
     * Armis
-    * Corelight / Zeek
+    * Corelight
+    * CyberArk
+    * Netskope
+    * and more
 
-    and more.
     
-    I also had the opportunity to create phishing simulations and 
-    perform a risk assessment on various internal webservers.
 
 May 2020 - August 2020
 :   **Talend** - Information Security Intern
 
-    As an Information Security Intern, I modified company's Splunk
-    architecture to follow best guidelines for third-party SOC integrations
-    and implemented Snort IDS into the company network. 
+    * Modified internal Splunk architecture with deployment servers
 
 
 
