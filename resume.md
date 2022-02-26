@@ -24,12 +24,13 @@ June 2022 - August 2022
 April 2021 - Present
 :   **Southern California Edison** - Cybersecurity Tools Architecture Intern
 
-    Utilized tools such as Tanium, Splunk, Corelight, and more to improve security posture of organization.
+    * Utilized tools such as Tanium, Splunk, Corelight, and more to improve security posture of organization.
+    * Created pipelines and ARM templates on Azure Pipelines.
 
 May 2020 - August 2020
 :   **Talend** - Information Security Intern
 
-    
+
 
 
 
