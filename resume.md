@@ -21,32 +21,19 @@ Experience
 June 2022 - August 2022
 :   **Crowdstrike** - Professional Services, Red Team Intern
 
-
 April 2021 - Present
 :   **Southern California Edison** - Cybersecurity Tools Architecture Intern
 
-    Utilized the following tools:
-    * Tanium
-    * Cylance
-    * Splunk
-    * Armis
-    * Corelight
-    * CyberArk
-    * Netskope
-    * and more
-
-    
-
 May 2020 - August 2020
 :   **Talend** - Information Security Intern
-
-    * Modified internal Splunk architecture with deployment servers
 
 
 
 Organizations
 --------------------
 <hr>
+
+
 
 Students With an Interest in the Future of Technolgy (SWIFT)
 :   As a general member my first year, Vice President of Operations my
