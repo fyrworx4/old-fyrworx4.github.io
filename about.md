@@ -1,6 +1,6 @@
 ---
 title: About Me
-h1: About Me
+#h1: About Me
 permalink: /about/
 layout: page
 excerpt: An info-sec student and aspiring hacker
